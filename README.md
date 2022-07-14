@@ -1,2 +1,3 @@
 # Omer_P
-Example Portfolio
+git clone https://gitlab.com/mertbakir/resume-a4.git
+
