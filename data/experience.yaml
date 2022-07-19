@@ -1,27 +1,36 @@
-- company: Uber
-  roles:
-    - role: Data Scientist
-      details: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-              Aenean nec volutpat arcu. Maecenas quis tempus risus. Curabitur condimentum ligula in erat pharetra porta. 
-              Nam suscipit nisi a bibendum lacinia. Donec aliquet, nibh dignissim placerat efficit"
-      date: "10.2020 -  Present"
 
-- company: Google
-  roles: 
-    - role: Senior Software Developer
-      details: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-              Aenean nec volutpat arcu. Maecenas quis tempus risus. "
-      date: "06.2019 - 10.2020"
-    
-    - role: Junior Software Developer
-      date: "10.2018 - 06.2019"
-      details: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-              Aenean nec volutpat arcu. Maecenas quis tempus risus. "
-
-- company: Uber
+- company: Finnet Elektronik Yayıncılık Data İletişim
   roles:
-    - role: Driver
-      details: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-              Aenean nec volutpat arcu. Maecenas quis tempus risus. Curabitur condimentum ligula in erat pharetra porta. 
-              Nam suscipit nisi a bibendum lacinia. Donec aliquet, nibh dignissim placerat efficit"
-      date: "2017 - 2018"
+    - role: Business Analyst | Marketing Specialist
+    details: "-Developing methodologies to track and report on new product sales,
+    promotions and customer incentive programs.
+
+    -Preparing dynamic reports with financials in Turkish Capital Market via
+    excel add-in called Analysis Expert and automating these reports for sales.
+
+    - Learning principles of portfolio management, creating model portfolios for
+     brokers, portfolio management and pension companies with robo-advisor program.
+
+    -Initiating sales for strategic key accounts and customers. "
+      date: "11.2021 -  07.2022"
+
+- company: Yildiz Technical University Data Science Community
+  roles:
+    - role: Co-Founder & Network Manager
+      details: "-Connecting people from the related sectors and organizing
+      events such as grad talk, workshops, courses, seminars. "
+     date: "09.2019 - 08.2021"
+
+- company: Bogazici University
+  roles:
+    - role: Assistant Student for Prof.Dr.Yasemin BAYYURT: ELF-awareness in ELT:
+       Bringing together theory and practice
+      details: "-Transcripting and entering data from the recorded surveys.
+
+      -Data cleaning and manipulation through R. "
+      date: "03.2018 - 06.2018"
+
+#    - role: Junior Software Developer
+#      date: "10.2018 - 06.2019"
+#      details: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
+#              Aenean nec volutpat arcu. Maecenas quis tempus risus. "

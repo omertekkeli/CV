@@ -1,10 +1,4 @@
-- name: "Msc. Industrial Engineering"
+  name: "Bsc. Statistics"
   university: "Yildiz Technical University"
-  more: "English - with Thesis" # Optional field, if you want to add a non-standard line.
-  date: "2019- 2021"
-  gpa: "3.71 / 4.00"
-
-- name: "Bsc. Industrial Engineering"
-  university: "Gazi University"
-  date: "2013 - 2017"
-  gpa : "3.35 / 4.00"
+  date: "2017 - 2022"
+  gpa : "2.81 / 4.00"

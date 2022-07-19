@@ -4,7 +4,6 @@ projects:
   date: "2016"
   details: |
     Lorem ipsum dolor sit amet
-
 - title: "Resume - A4"
   subtitle: "mertbakir.gitlab.io/resume"
   link: "https://gitlab.com/mertbakir/resume-a4"

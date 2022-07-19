@@ -1,82 +1,82 @@
 about:
-  name: Mert Bakir
-  tagline: Data Scientist
-  phone: "5070*4****"
-  email: yourmail@yourdomain
+  name: Ömer Tekkeli
+  tagline: Business Analyst
+  phone: "+90 541 207 19 44"
+  email: omertttekkeli@gmail.com
   links:
-    - title: /in/mertbakir
-      url: https://tr.linkedin.com/in/mertbakir
+    - title: /in/omertekkeli
+      url: https://tr.linkedin.com/in/omertekkeli
       icon: fab fa-linkedin
-    - title: mertbakir
-      url: https://gitlab.com/mertbakir/
+    - title: omertttekkeli
+      url: https://gitlab.com/omertttekkeli/
       icon: fab fa-gitlab
-    - title: mertbakir
-      url: https://github.com/mertbakir
+    - title: omertttekkeli
+      url: https://github.com/omertekkeli
       icon: fab fa-github
   details: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
-    Aenean nec volutpat arcu. Maecenas quis tempus risus. Curabitur condimentum ligula in erat pharetra porta.
-
-    Nam suscipit nisi a bibendum lacinia.
+    Data enthusiast with Statistics major. Highly motivated new graduate
+    willing to work in different related fields and contribute to team success
+    through hard work and excellent organization skills.
 
 
 skills:
-  - groupName: Databases & Visualization
+  - groupName: Summary
     list:
-      - Grafana - Kibana - PowerBI
-      - InfluxDB - TICK Stack
+      - Statistcs - Programming - Data Analysis
+      - Data Visualization - Marketing
 
-  - groupName: Data Analysis & Analytics
+  - groupName: Programming
     list:
       - Python - R - SQL
-      - Excel - Minitab - SPSS
-      - GAMS - PuLP - OR Tools
-
-  - groupName: Programming & Systems
-    list:
-      - C# - Git - Docker - NGINX
-      - Linux - CentOS RHEL
-
-interests:
-  - Data Science
-  - AI Applications
-  - Optimization Problems
+      - Excel - SPSS
+      - Git - PowerBI
 
 languages:
   - name: Turkish
     level: Native
 
   - name: English
-    level: Professional
-    certificates:
-      - "YDS: 86.25 - 2018"
-      - "TOEFL: 109 - 2021"
+    level: Advanced
+
+  - name: Italian
+    level: Beginner-A1 
+
 
 # This will use the default widget: "details-list"
-awards:
-  - title: "Tübitak - Graduation Project"
-    date: "2017"
-    subtitle: "A Decision Support System for 3D Cutting Problem"
+#awards:
+#  - title: "Tübitak - Graduation Project"
+#    date: "2017"
+#    subtitle: "A Decision Support System for 3D Cutting Problem"
     #details: |
     #   - add more here if you like to.
     #   - or just comment out/delete the field.
-    links:
-      - title: example
-        url: https://mertbakir.gitlab.io
-        icon: fas fa-bolt
-        prefix: "This is an " # use quotation marks if you want to pass the tailing space.
-      - title: second link.
-        url: https://esdfdsfdsf
-        icon: "-" # you can get rid of the icon by entering dummy text
-        prefix: "omg"
+    #    links:
+#      - title: example
+#        url: https://mertbakir.gitlab.io
+#        icon: fas fa-bolt
+#        prefix: "This is an " # use quotation marks if you want to pass the tailing space.
+#      - title: second link.
+#        url: https://esdfdsfdsf
+#        icon: "-" # you can get rid of the icon by entering dummy text
+#        prefix: "omg"
 
 certificates:
-  - title: "Supervised Learning: Regression"
-    subtitle: Coursera
-    date: "2020"
-    link: https://xkcd.com/605/ # This link will be on title level.
+  - title: "Swimming Coach of the Turkish National Swimming Federation"
+    subtitle: TYF
+    date: "2022"
+    link:  # This link will be on title level.
 
-  - title: "Supervised Learning: Classification"
-    subtitle: Coursera
-    date: "2020"
-    link: https://xkcd.com/388/
+#  - title: "Automate the Boring Stuff with Python Programming"
+#    subtitle: Udemy
+#    date: "2021"
+#    link: https://udemy-certificate.s3.amazonaws.com/image/UC-963b8057-0da9-4ace-83e0-e14a8befc687.jpg
+#
+#  - title: "The Complete Pandas Bootcamp "
+#    subtitle: Udemy
+#    date: "2020"
+#    link: https://udemy-certificate.s3.amazonaws.com/image/UC-574fa7fd-14a3-4a8c-bc14-d85b2f41f148.jpg
+#
+#  - title: "The Complete SQL Bootcamp "
+#    subtitle: Udemy
+#    date: "2021"
+#    link: https://udemy-certificate.s3.amazonaws.com/image/UC-48d6fd2c-63bf-452f-8d71-ab5723f4616c.jpg
