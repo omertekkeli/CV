@@ -1,7 +1,7 @@
 - company: Finnet Elektronik Yayıncılık Data İletişim
   roles:
     - role: "Business Analyst | Marketing Specialist"
-      details: "-Developing methodologies to track and report on new product sales,
+      details: "- Developing methodologies to track and report on new product sales,
       promotions and customer incentive programs.
 
       - Preparing dynamic reports with financials in Turkish Capital Market via
@@ -16,7 +16,7 @@
 - company: Yildiz Technical University Data Science Community
   roles:
     - role: "Co-Founder & Network Manager"
-      details: "-Connecting people from the related sectors and organizing
+      details: "- Connecting people from the related sectors and organizing
         events such as grad talk, workshops, courses, seminars. "
       date: "09.2019 - 08.2021"
 
@@ -24,7 +24,8 @@
   roles:
     - role: "Assistant Student for Prof.Dr.Yasemin BAYYURT: ELF-awareness in ELT:
         Bringing together theory and practice"
-      details: "-Transcripting and entering data from the recorded surveys.
+      details: "- Transcripting and entering data from the recorded surveys.
+      
         - Data cleaning and manipulation through R. "
       date: "03.2018 - 06.2018"
 
