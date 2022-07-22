@@ -4,12 +4,9 @@ about:
   phone: "+90 541 207 19 44"
   email: omertttekkeli@gmail.com
   links:
-    - title: /in/omertekkeli
-      url: https://tr.linkedin.com/in/omertekkeli
+    - title: LinkedIn
+      url: https://linkedin.com/in/omertekkeli
       icon: fab fa-linkedin
-    - title: omertttekkeli
-      url: https://gitlab.com/omertttekkeli/
-      icon: fab fa-gitlab
     - title: omertttekkeli
       url: https://github.com/omertekkeli
       icon: fab fa-github
@@ -37,9 +34,6 @@ languages:
 
   - name: English
     level: Advanced
-
-  - name: Italian
-    level: Beginner-A1 
 
 
 # This will use the default widget: "details-list"

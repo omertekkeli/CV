@@ -1,3 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://omertekkeli.github.io/CV/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "Resume | ÖMER TEKKELİ"
+theme = "resume-a4"
