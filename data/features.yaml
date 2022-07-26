@@ -19,14 +19,21 @@ about:
 skills:
   - groupName: Summary
     list:
-      - Statistcs - Programming - Data Analysis
-      - Data Visualization - Marketing
+      - Statistics
+      - Programming
+      - Data Analysis
+      - Data Visualization
+      - Marketing
 
   - groupName: Programming
     list:
-      - Python - R - SQL
-      - Excel - SPSS
-      - Git - PowerBI
+      - Python
+      - R
+      - SQL
+      - Excel
+      - SPSS
+      - Git
+      - PowerBI
 
 languages:
   - name: Turkish
